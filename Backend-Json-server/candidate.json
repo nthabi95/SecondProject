@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "id": 1001,
+      "name": "John Smith",
+      "email": "JohnSmith@yahoo.com",
+      "post": "Full stack web development"
+    },
+    {
+      "id": 1002,
+      "name": "Nthabiseng Mosana",
+      "email": "Nthabiseng@gmail.com",
+      "post": "Administrator"
+    },
+    {
+      "id": 1003,
+      "name": "Pertunia Zwane",
+      "email": "Pertunia.Zwane@gmail.com",
+      "post": "Junior Developer"
+    },
+    {
+      "id": 1004,
+      "name": "Mpho Mahlangu",
+      "email": "Mpho.Mahlango@gmail.com",
+      "post": "Desktop support"
+    }
+  ]
+}

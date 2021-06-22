@@ -1,0 +1,17 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Nthabiseng",
+      "email": "Nthabiseng@gmail.com",
+      "salary": "R40000"
+      
+    },
+    {
+      "id": 2,
+      "name": "Tumelo Zwane",
+      "email": "Tumelozwane@yahoo.com",
+      "salary": "R33000"
+    }
+  ]
+}
